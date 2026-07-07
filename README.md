@@ -112,3 +112,23 @@ Your submission is valid and should satisfy the assignment requirements. The fiv
 Bad physical design (safety, ergonomics, accessibility), or
 Bad UI/UX design (usability and interface issues).
 These are easier for your faculty to evaluate and justify in your report.
+Bad Design 6: Cluttered Online Banking Homepage (SBI Net Banking)
+Description:
+The SBI Net Banking homepage contains too many menus, links, announcements, login options, and icons on a single page. The interface appears crowded, making it difficult for users to quickly find the required service.
+Source of Photograph:
+Captured by me (GPS-enabled photograph)
+Place:
+SJT Computer Lab, VIT University, Vellore
+Reasons why the design is bad:
+Too much information displayed on one screen, causing cognitive overload.
+Personal Banking and Corporate Banking sections compete equally for attention.
+Small font size reduces readability.
+Multiple navigation menus and links make the interface confusing for first-time users.
+Important actions (such as Login) do not stand out sufficiently.
+Excessive use of banners and links distracts users from completing their primary task.
+Suggested Improvement:
+Simplify the homepage by reducing unnecessary information.
+Increase font size and improve spacing between sections.
+Highlight the main Login button with better visual hierarchy.
+Group related services into expandable categories.
+Reduce visual clutter and improve the overall layout for easier navigation.
